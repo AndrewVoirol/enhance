@@ -13,7 +13,7 @@ The CSI "zoom and enhance" meme, but it actually works. Click any region of an i
 > Requires Node.js 18+ and a [Gemini API key](https://aistudio.google.com/apikey)
 
 ```bash
-git clone https://github.com/yourusername/enhance.git
+git clone https://github.com/AndrewVoirol/enhance.git
 cd enhance
 npm install
 ```
